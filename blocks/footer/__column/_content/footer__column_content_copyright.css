@@ -1,0 +1,6 @@
+.footer__column_content_copyright { /*большая колонка с лого и копирайтом*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-basis: 711px;
+}

@@ -1,0 +1,15 @@
+.techniques {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.cards {
+  display: flex;
+  width: 920px;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
