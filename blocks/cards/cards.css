@@ -1,4 +1,4 @@
-.cards {
+.cards { /* техники обучения, круглые картинки*/
   display: flex;
   width: 920px;
   flex-wrap: wrap;

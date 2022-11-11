@@ -1,4 +1,4 @@
-.link:hover {
+.link:hover { /*поведение при наведение на элемент */
   opacity: .6;
   transition: opacity .4s;
 }
